@@ -37,5 +37,5 @@
 <!-- CARD Contador -->
 <div align="center" style="border: 1px solid #ccc; border-radius: 15px; padding: 20px; margin: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
   <h2 align="center"> Contador de Visitantes</h2>
-  <img src="https://profile-counter.glitch.me/{LuizGustavo10}/count.svg" />
+  <img src="https://profile-counter.glitch.me/{tarifa777}/count.svg" />
 </div>
